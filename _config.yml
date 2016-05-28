@@ -1,0 +1,28 @@
+name: Surprise Dental And Denture
+favicon: null
+layout_spectrum: 0.10460810689255595
+typography_spectrum: 0.9300669273361564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8971715155057609
+  lightness: 0.24937087739817798
+  saturation: 0.19196376064792275
+  rhythmicContrast: 0.027472627582028508
+purpose: []
